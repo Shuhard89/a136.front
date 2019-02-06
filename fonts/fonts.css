@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('AvenirNextCyr-Regular.eot');
+    src: url('AvenirNextCyr-Regular.eot?#iefix') format('embedded-opentype'),
+    url('AvenirNextCyr-Regular.woff') format('woff'),
+    url('AvenirNextCyr-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('AvenirNextCyr-Bold.eot');
+    src: url('AvenirNextCyr-Bold.eot?#iefix') format('embedded-opentype'),
+    url('AvenirNextCyr-Bold.woff') format('woff'),
+    url('AvenirNextCyr-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Leaner';
+    src: url('Leaner.eot');
+    src: url('Leaner.eot?#iefix') format('embedded-opentype'),
+        url('Leaner.woff') format('woff'),
+        url('Leaner.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
