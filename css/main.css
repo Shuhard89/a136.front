@@ -746,7 +746,7 @@ a.menu-cta-choose:hover img {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(50,50,50,.7);
+    background-color: rgba(50,50,50,.3);
     z-index: 1;
 }
 

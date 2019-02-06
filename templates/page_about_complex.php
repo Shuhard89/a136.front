@@ -9,7 +9,7 @@
                                 <img src="img/front_page/slider/1.jpg" alt="slide title">
                                 <div class="intro-slider-item-content-container">
                                     <div class="intro-slider-item-content">
-                                        <h2>А136 Highlight House — втілення здобутків, прагнень та очікувань його мешканців.</h2>
+                                        <h2>Безупречность, воплощенная в форму</h2>
                                         <p>Дім, що відображає їхню лідерську сутність та підкреслює статус, проте робить це стримано. Це місце сили та натхнення.</p>
                                     </div>
                                 </div>
@@ -18,7 +18,7 @@
                                 <img src="img/front_page/slider/2.jpg" alt="slide title">
                                 <div class="intro-slider-item-content-container">
                                     <div class="intro-slider-item-content">
-                                        <h2>А136 Highlight House — втілення здобутків, прагнень та очікувань його мешканців.</h2>
+                                        <h2>Безупречность, воплощенная в форму</h2>
                                         <p>Дім, що відображає їхню лідерську сутність та підкреслює статус, проте робить це стримано. Це місце сили та натхнення.</p>
                                     </div>
                                 </div>
@@ -27,7 +27,7 @@
                                 <img src="img/front_page/slider/3.jpg" alt="slide title">
                                 <div class="intro-slider-item-content-container">
                                     <div class="intro-slider-item-content">
-                                        <h2>А136 Highlight House — втілення здобутків, прагнень та очікувань його мешканців.</h2>
+                                        <h2>Безупречность, воплощенная в форму</h2>
                                         <p>Дім, що відображає їхню лідерську сутність та підкреслює статус, проте робить це стримано. Це місце сили та натхнення.</p>
                                     </div>
                                 </div>
@@ -36,7 +36,7 @@
                                 <img src="img/front_page/slider/4.jpg" alt="slide title">
                                 <div class="intro-slider-item-content-container">
                                     <div class="intro-slider-item-content">
-                                        <h2>А136 Highlight House — втілення здобутків, прагнень та очікувань його мешканців.</h2>
+                                        <h2>Безупречность, воплощенная в форму</h2>
                                         <p>Дім, що відображає їхню лідерську сутність та підкреслює статус, проте робить це стримано. Це місце сили та натхнення.</p>
                                     </div>
                                 </div>
@@ -71,7 +71,7 @@
                         <img src="img/front_page/mini_slider/2.jpg" alt="Highlite House">
                     </div>
                     <div class="info-section-content">
-                        <h2 class="section-info-heading animation-element-default">Безупречность, <br><b>воплощенная в форму</b></h2>
+                        <h2 class="section-info-heading animation-element-default">Highlight <br><b>house</b></h2>
                         <p class="section-info-description animation-element-default">Задавать тон и ритм, но сливаться с музыкой архитектуры. Жить в сердце мегаполиса, и видеть землю до самого горизонта. Быть заметной фигурой, но растворяться в пространстве, наполненном светом.  Задавать во всем высокую планку, но стремиться подняться еще выше.  Быть в центре событий, и в то же время иметь место только для себя. Это A136 Highlight House. A136 — место силы, предмет гордости и признак высокого статуса. Этот дом сочетает в себе современные технологии строительства, уникальную архитектуру и выгодное расположение рядом с основными магистралями и историческим центром Киева.</p>
                     </div>
                     <div class="info-section-secondary-img-container rellax" data-rellax-speed="-1.5" data-rellax-percentage="0.5">
