@@ -6,6 +6,10 @@
             <h6 class="section-info-heading">Свяжитесь <br><b>с нами</b></h6>
             <ul class="footer-contacts-list">
                 <li>
+                    <span class="footer-contacts-list-item-key">Адрес</span>
+                    <span class="footer-contacts-list-item-value">Г. КИЕВ, ВУЛ. АНТОНОВИЧА, 136</span>
+                </li>
+                <li>
                     <span class="footer-contacts-list-item-key">Офис продаж</span>
                     <span class="footer-contacts-list-item-value">Г. КИЕВ, УЛ. СЕЧЕВЫХ СТРЕЛЬЦОВ, 41</span>
                 </li>

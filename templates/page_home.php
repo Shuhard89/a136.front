@@ -86,7 +86,7 @@
                         </div>
                     </div>
                     <div class="info-section-content">
-                        <h2 class="section-info-heading animation-element-default">Highlight <br><b>House</b></h2>
+                        <h2 class="section-info-heading animation-element-default">Безупречность, <br><b>воплощенная в форму</b></h2>
                         <p class="section-info-description animation-element-default">Задавать тон и ритм, но сливаться с музыкой архитектуры. Жить в сердце мегаполиса, и видеть землю до самого горизонта. Быть заметной фигурой, но растворяться в пространстве, наполненном светом.  Задавать во всем высокую планку, но стремиться подняться еще выше.  Быть в центре событий, и в то же время иметь место только для себя…</p>
                         <div class="section-mobile-cta-link">
                             <a href="page_about_complex.php" class="section-cta-link">
