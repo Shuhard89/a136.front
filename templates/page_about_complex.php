@@ -75,7 +75,7 @@
                         <p class="section-info-description animation-element-default">Задавать тон и ритм, но сливаться с музыкой архитектуры. Жить в сердце мегаполиса, и видеть землю до самого горизонта. Быть заметной фигурой, но растворяться в пространстве, наполненном светом.  Задавать во всем высокую планку, но стремиться подняться еще выше.  Быть в центре событий, и в то же время иметь место только для себя. Это A136 Highlight House. A136 — место силы, предмет гордости и признак высокого статуса. Этот дом сочетает в себе современные технологии строительства, уникальную архитектуру и выгодное расположение рядом с основными магистралями и историческим центром Киева.</p>
                     </div>
                     <div class="info-section-secondary-img-container rellax" data-rellax-speed="-1.5" data-rellax-percentage="0.5">
-                        <img src="img/front_page/info/3_photo_main.jpg" alt="Highlite House 2">
+                        <img src="img/front_page/info/3_photo_main_new.jpg" alt="Highlite House 2">
                     </div>
                 </div>
             </section>
@@ -142,7 +142,7 @@
                         <p class="section-info-description animation-element-default">Также, как мы поместили личность человека в центр философии компании DIM, мы расположили сам  «A136» в центре событий, в центре инфраструктуры, в точке равновесия между уютом и энергией города. Spirit of place. Но насколько бы выгодным ни было расположение дома сегодня, «А136», именно тот дом, который определит будущее окружающего пространства. Это новый «гений места», который всё вовлекает в сферу своего влияния, превращает пространство в свое отражение, делает его комфортнее и респектабельнее. Идеальное расположение дома – где слышен голос большого города, но не слишком отчетливо.</p>
                     </div>
                     <div class="info-section-secondary-img-container rellax" data-rellax-speed="-4" data-rellax-percentage=".5">
-                        <img src="img/front_page/info/7_main_photo.jpg" alt="A136">
+                        <img src="img/front_page/info/7_main_photo_new.jpg" alt="A136">
                     </div>
                 </div>
             </section>

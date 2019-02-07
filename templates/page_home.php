@@ -96,7 +96,7 @@
                         </div>
                     </div>
                     <div class="info-section-secondary-img-container rellax" data-rellax-speed="-1.5" data-rellax-percentage="0.5">
-                        <img src="img/front_page/info/3_photo_main.jpg" alt="Highlite House 2" class="rellax" data-rellax-speed="-4" data-rellax-percentage=".5">
+                        <img src="img/front_page/info/3_photo_main_new.jpg" alt="Highlite House 2" class="rellax" data-rellax-speed="-4" data-rellax-percentage=".5">
                     </div>
                     <a href="page_about_complex.php" class="section-cta-link animation-element-default info-section-link">
                         <span>Подробнее про ЖК</span>
@@ -145,7 +145,7 @@
             </section>
             <section class="section-simple-specs">
                 <div class="section-simple-specs-img overflow-hidden">
-                    <img src="img/front_page/info/5_main_photo.jpg" alt="Specs image" class="rellax" data-rellax-speed="-1" data-rellax-percentage=".5">
+                    <img src="img/front_page/info/5_main_photo_new.jpg" alt="Specs image" class="rellax" data-rellax-speed="-1" data-rellax-percentage=".5">
                 </div>
                 <ul class="section-simple-specs-list">
                     <li class="animation-element-default">
@@ -195,7 +195,7 @@
                         </div>
                     </div>
                     <div class="info-section-secondary-img-container rellax" data-rellax-speed="-3" data-rellax-percentage="0.5">
-                        <img src="img/front_page/info/7_main_photo.jpg" alt="A136" class="rellax" data-rellax-speed="-4" data-rellax-percentage=".5">
+                        <img src="img/front_page/info/7_main_photo_new.jpg" alt="A136" class="rellax" data-rellax-speed="-4" data-rellax-percentage=".5">
                     </div>
                     <a href="page_about_complex.php" class="section-cta-link animation-element-default info-section-link">
                         <span>Подробнее про ЖК</span>
@@ -206,7 +206,7 @@
             <section class="info-section info-section-reverse info-section-infrastructure">
                 <div class="info-section-container">
                     <div class="info-section-main-img-container gallery-button rellax" data-images="['img/gallery/1.jpg','img/gallery/1.jpg','img/gallery/1.jpg','img/gallery/1.jpg','img/gallery/1.jpg','img/gallery/1.jpg','img/gallery/1.jpg','img/gallery/1.jpg','img/gallery/1.jpg','img/gallery/1.jpg']" data-rellax-speed="1" data-rellax-percentage="0.5">
-                        <img src="img/front_page/info/9_main_photo.jpg" alt="A136">
+                        <img src="img/front_page/info/9_main_photo_new.jpg" alt="A136">
                     </div>
                     <div class="info-section-content">
                         <h2 class="section-info-heading animation-element-default">Собственная <br><b>инфраструктура</b></h2>
@@ -219,11 +219,11 @@
                         </div>
                     </div>
                     <div class="info-section-secondary-img-container rellax" data-rellax-speed="-1" data-rellax-percentage="0.5">
-                        <img src="img/front_page/info/11_main_photo.jpg" alt="A136" class="rellax" data-rellax-speed="-.5" data-rellax-percentage=".5">
+                        <img src="img/front_page/slider/2.jpg" alt="A136" class="rellax" data-rellax-speed="-.5" data-rellax-percentage=".5">
                     </div>
-                    <div class="info-section-additional-img-container rellax overflow-hidden" data-rellax-speed="-3" data-rellax-percentage="0.5">
+<!--                     <div class="info-section-additional-img-container rellax overflow-hidden" data-rellax-speed="-3" data-rellax-percentage="0.5">
                         <img src="img/front_page/info/10_main_photo.jpg" alt="A136" class="rellax" data-rellax-speed="-.5" data-rellax-percentage=".5">
-                    </div>
+                    </div> -->
                 </div>
             </section>
             <section class="section-full-width-img section-full-width-img-with-top-padding">
@@ -247,7 +247,7 @@
                         </div>
                     </div>
                     <div class="info-section-secondary-img-container rellax" data-rellax-speed="3" data-rellax-percentage="0.5">
-                        <img src="img/front_page/info/14_main_photo.jpg" alt="A136" class="rellax" data-rellax-speed="-1" data-rellax-percentage=".5">
+                        <img src="img/front_page/info/highlite_house_img.jpg" alt="A136" class="rellax" data-rellax-speed="-1" data-rellax-percentage=".5">
                     </div>
                 </div>
             </section>
