@@ -169,7 +169,7 @@
                         <span>Висота потолков</span>
                     </li>
                     <li class="animation-element-default">
-                        <span>2022 <span class="simple-specs-add-info">1 квартал</span></span>
+                        <span>2022</span>
                         <span>введение в эксплуатацию</span>
                     </li>
                 </ul>
@@ -195,7 +195,7 @@
                         </div>
                     </div>
                     <div class="info-section-secondary-img-container rellax" data-rellax-speed="-3" data-rellax-percentage="0.5">
-                        <img src="img/front_page/info/7_main_photo_new.jpg" alt="A136" class="rellax" data-rellax-speed="-4" data-rellax-percentage=".5">
+                        <img src="img/front_page/info/lobby.jpg" alt="A136" class="rellax" data-rellax-speed="-4" data-rellax-percentage=".5">
                     </div>
                     <a href="page_about_complex.php" class="section-cta-link animation-element-default info-section-link">
                         <span>Подробнее про ЖК</span>

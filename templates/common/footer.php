@@ -11,7 +11,7 @@
                 </li>
                 <li>
                     <span class="footer-contacts-list-item-key">Офис продаж</span>
-                    <span class="footer-contacts-list-item-value">Г. КИЕВ, УЛ. СЕЧЕВЫХ СТРЕЛЬЦОВ, 41</span>
+                    <span class="footer-contacts-list-item-value">Г. КИЕВ, УЛ. СЕЧЕВЫХ СТРЕЛЬЦОВ, 37-41</span>
                 </li>
                 <li>
                     <span class="footer-contacts-list-item-key">Телефон</span>

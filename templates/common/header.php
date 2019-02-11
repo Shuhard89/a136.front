@@ -56,6 +56,7 @@
         <div class="header-btns">
             <div class="cta-callback-btn" id="cta-callback-btn">
                 <img src="img/ui/call_dark.svg" alt="Phone icon">
+                <div class="pulse"></div>
             </div>
             <div class="camera-btn" id="cctv-btn">
                 <img src="img/ui/CCTV_dark.svg" alt="CCTV icon">
