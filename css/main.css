@@ -1419,7 +1419,13 @@ a.intro-section-bottom-overlay-cta-btn:hover img {
     text-transform: uppercase;
     color: #BEC3CE;
 }
-
+.section-simple-specs-list > li > span:nth-of-type(1) > span.simple-specs-add-info {
+    font-size: .25rem;
+    font-family: initial;
+    top: .28rem;
+    position: absolute;
+    right: -.4rem;
+}
 
 /* Section - full width img */
 
